@@ -1,0 +1,1 @@
+{"name":"New idea","repository":"https://github.com/initialversion/new-idea-1475864166","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
